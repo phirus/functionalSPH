@@ -1,3 +1,5 @@
+import Kernel
+
 -- for a 2D Simulation a 2-tuple represents a coordinate (x,y)
 
 distance :: (Floating a) => (a,a) -> (a,a) -> a
